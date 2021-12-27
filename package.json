@@ -1,0 +1,24 @@
+{
+  "dependencies": {
+    "bootstrap": "^5.1.3"
+  },
+  "name": "mkversaw.github.io",
+  "description": "",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mkversaw/mkversaw.github.io.git"
+  },
+  "keywords": [],
+  "author": "Miles Versaw",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mkversaw/mkversaw.github.io/issues"
+  },
+  "homepage": "https://github.com/mkversaw/mkversaw.github.io#readme"
+}
